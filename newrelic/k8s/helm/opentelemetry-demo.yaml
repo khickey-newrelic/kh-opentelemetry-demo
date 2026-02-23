@@ -62,7 +62,7 @@ components:
         memory: 50Mi
     env:
       - name: PRODUCT_CATALOG_PORT
-        value: "8080"
+        value: "8081"
       - name: FLAGD_HOST
         value: flagd
       - name: FLAGD_PORT

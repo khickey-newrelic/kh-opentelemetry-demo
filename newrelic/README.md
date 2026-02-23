@@ -53,6 +53,9 @@ Run the `install-k8s.sh` script to install the Astronomy Shop Demo into your clu
 ```bash
 ./install-k8s.sh
 ```
+> **NOTE**: If you are NR staff and get   
+*Error: looks like "https://helm-charts.newrelic.com" is not a valid chart repository or cannot be reached*   
+try re-authenticating with CloudFlare.
 
 ### Environment Variables
 

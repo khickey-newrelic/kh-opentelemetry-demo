@@ -37,7 +37,7 @@ source "$(dirname "$0")/common.sh"
 # Make sure tools required by all scripts are installed
 check_tool_installed kubectl
 check_tool_installed helm
-check_tool_installed pip
+#check_tool_installed pip
 check_tool_installed python3
 
 # Load environment variables from .env if it exists
